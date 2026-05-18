@@ -1,0 +1,13 @@
+{
+  "itemGroup.smartcgolem": "Example Mod Tab",
+  "block.smartcgolem.example_block": "Example Block",
+  "item.smartcgolem.example_item": "Example Item",
+
+  "smartcgolem.configuration.title": "smart copper golem Configs",
+  "smartcgolem.configuration.section.smartcgolem.common.toml": "smart copper golem Configs",
+  "smartcgolem.configuration.section.smartcgolem.common.toml.title": "smart copper golem Configs",
+  "smartcgolem.configuration.items": "Item List",
+  "smartcgolem.configuration.logDirtBlock": "Log Dirt Block",
+  "smartcgolem.configuration.magicNumberIntroduction": "Magic Number Text",
+  "smartcgolem.configuration.magicNumber": "Magic Number"
+}
